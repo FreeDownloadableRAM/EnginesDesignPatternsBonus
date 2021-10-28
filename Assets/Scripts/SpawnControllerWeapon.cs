@@ -16,7 +16,7 @@ namespace Prototype.WeaponSpawner
         {
             
             //exercise
-            swordPrototype = new Sword(11, 7);//attack bonus, and durability
+            swordPrototype = new Sword(16, 12);//attack bonus, and durability
 
             //exercise
             weaponSpawners = new SpawnerWeapon[] {
